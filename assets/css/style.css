@@ -133,7 +133,6 @@ footer{
     width: 100%;
     color: #dfdfdf;
     text-align: center;
-    vertical-align: bottom;
 }
 
 .inside_contact{
@@ -179,7 +178,7 @@ input,textarea{
 }
 
 .green_div{
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: 'Georgia', Times, Times New Roman, serif;
     background: #4ba9a5;
     padding: 20px;
     position: absolute;
